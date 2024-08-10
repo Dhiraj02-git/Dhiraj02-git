@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhiraj02-git
-- 👀 I’m interested in R and Python
-- 🌱 I’m currently learning R 
-- 💞️ I’m looking to collaborate on projects which require R
+- 👀 I’m interested in Full Stack development and Blockchain
+- 🌱 I’m currently learning Full stack development
+- 💞️ I’m looking to collaborate on projects which require _________
 - 📫 How to reach me- mail me on medhiraj.engg@gmail.com
 
 <!---
